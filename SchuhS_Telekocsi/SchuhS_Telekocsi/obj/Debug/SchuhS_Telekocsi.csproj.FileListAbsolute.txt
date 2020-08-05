@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Telekocsi\SchuhS_Telekocsi\obj\Debug\SchuhS_Telekocsi.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Telekocsi\SchuhS_Telekocsi\obj\Debug\SchuhS_Telekocsi.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Telekocsi\SchuhS_Telekocsi\bin\Debug\SchuhS_Telekocsi.exe.config
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Telekocsi\SchuhS_Telekocsi\bin\Debug\SchuhS_Telekocsi.exe
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Telekocsi\SchuhS_Telekocsi\bin\Debug\SchuhS_Telekocsi.pdb
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Telekocsi\SchuhS_Telekocsi\obj\Debug\SchuhS_Telekocsi.exe
+C:\Users\Soma\Documents\C#2\Vizsgafeladatok\SchuhS_Telekocsi\SchuhS_Telekocsi\obj\Debug\SchuhS_Telekocsi.pdb
